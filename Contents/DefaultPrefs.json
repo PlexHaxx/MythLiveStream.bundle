@@ -1,0 +1,16 @@
+[
+    {
+        "id": "server",
+        "type": "text",
+        "label": "MythTV API Server",
+        "default": "http://127.0.0.1:6544"
+    },
+    {
+        "id": "hlsserver",
+        "type": "text",
+        "label": "HLS Server",
+        "default": "http://127.0.0.1:6544"
+    }
+
+]
+
